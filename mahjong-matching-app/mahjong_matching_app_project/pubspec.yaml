@@ -8,6 +8,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  google_sign_in: ^3.2.4
+  firebas_auth: ^0.6.6
 
   cupertino_icons: ^0.1.2
   firebase_database: 1.0.3
